@@ -1,0 +1,8 @@
+{
+  "name": "HTML Image Hotlink Playground",
+  "description": "A comprehensive playground to search, test, and style images for HTML hotlinking, complete with an AI ALT text generator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
